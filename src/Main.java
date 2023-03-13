@@ -1,7 +1,8 @@
-public <name of class>(){
+public Constructor(){
     setTitle(title of frame);
-    setSize(x, y);
+    setSize();
     setDefaultCloseOperation(WindowConstants.EXIT_ON_CLOSE);
     setVisible(true);
-    setContentPane(name of JPanel);
+    setContentPane(JPanel name);
+    setLocationRelativeTo(null);
     }
