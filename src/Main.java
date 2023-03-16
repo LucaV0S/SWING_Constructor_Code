@@ -1,5 +1,5 @@
-public Constructor(){
-    setTitle(title of frame);
+public void constructorCode(){
+    setTitle("title of frame");
     setSize();
     setDefaultCloseOperation(WindowConstants.EXIT_ON_CLOSE);
     setVisible(true);
